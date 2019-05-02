@@ -12,7 +12,7 @@ i.e. where the encoding for specific message type is (in hex) "0x0000", a valid 
 
 ## Supported encoding bytes for specific message type (hex)
 
-0000 - reserved
-0001 - reserved
+-0000 - reserved
+-0001 - reserved
 
 
