@@ -1,7 +1,7 @@
-# message-transaction-encoding
+# QRL Message transaction encoding
 List of supported encoding bytes for various services using QRL message transactions. 
 
-Based upon QIP002: https://github.com/theQRL/qips/tree/master/2.Proposals/1.%20Open/2%20-%20MessageTransaction%20Encoded%20Message%20Standard
+Based upon [QIP002.](https://github.com/theQRL/qips/tree/master/2.Proposals/1.%20Open/2%20-%20MessageTransaction%20Encoded%20Message%20Standard)
 
 For a message transactions to be validly encoded, the first two bytes of the 80 byte message body must be (in hex), "0F0F".
 The next **two bytes** of the message denote the encoding of the **specific message type**.
