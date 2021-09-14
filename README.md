@@ -16,6 +16,7 @@ i.e. where the encoding for specific message type is (in hex) "0x0000", a valid 
 - 0001 - reserved
 - 0002 - keybase
 - 0003 - github
+- 0004 - on-chain voting
 
 
 
